@@ -24,4 +24,4 @@ if "%PASS%"=="%PASSWORD%" (
     exit
 )
 
-exit
+exit 
